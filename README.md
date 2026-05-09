@@ -1,7 +1,4 @@
-# Sales-Analytics-Pipeline
-End-to-end sales analytics pipeline: Python ETL, MySQL DB architecture, and a 20M-scale Power BI dashboard.
-
-#Executive Sales Analytics Pipeline :
+Executive Sales Analytics Pipeline :
 This project is an end-to-end data engineering and analytics solution. It transforms raw, "dirty" sales data into a high-fidelity Power BI dashboard through a structured pipeline involving Python and MySQL.
 
 Project Workflow
