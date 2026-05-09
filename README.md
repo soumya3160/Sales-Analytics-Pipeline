@@ -1,3 +1,4 @@
+![Sales Dashboard](monthly_sales_growth.png)
 Executive Sales Analytics Pipeline :
 This project is an end-to-end data engineering and analytics solution. It transforms raw, "dirty" sales data into a high-fidelity Power BI dashboard through a structured pipeline involving Python and MySQL.
 
